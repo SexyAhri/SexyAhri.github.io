@@ -1,0 +1,1 @@
+import{u as s,c as n,b as t,t as u,g as r,o as l}from"./index-CltOxvft.js";const m={__name:"ProfileView",setup(a){const o=s();return(i,e)=>(l(),n("div",null,[e[1]||(e[1]=t("h1",null,"User Profile",-1)),t("pre",null,u(r(o).user),1),t("button",{onClick:e[0]||(e[0]=p=>r(o).logout())},"Logout")]))}};export{m as default};
